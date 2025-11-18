@@ -100,7 +100,7 @@ Categories: http://localhost:3000/products/categories
 In-stock products: http://localhost:3000/products/instock
 
 5. GitHub Repository Link
-https://github.com/jafnathajudheen/product-catalog-api.git
+https://github.com/FathimaHibaa/product-catalog-api.git
 
 6. Author Information
 
